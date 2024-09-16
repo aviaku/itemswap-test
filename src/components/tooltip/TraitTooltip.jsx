@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { FaTint } from "react-icons/fa";
-import ChineseArmor from "@assets/image/items/armors/chinese.png";
+import ChineseArmor from "@assets/image/items/armors/Chinese.png";
 
 // Tooltip Container
 const Tooltip = styled.div`
