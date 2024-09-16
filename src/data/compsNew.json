@@ -1,0 +1,3854 @@
+{
+  "props": {
+    "pageProps": {
+      "dehydratedState": {
+        "mutations": [],
+        "queries": {
+          "data": {
+            "patchRevisions": [
+              {
+                "patch": 1413,
+                "revision": 0
+              },
+              {
+                "patch": 1412,
+                "revision": 0
+              }
+            ],
+            "metaDeckList": {
+              "updatedAt": 1720764113458,
+              "shard": "global",
+              "queueId": 1100,
+              "dt": 3,
+              "patch": 1413,
+              "revision": 0,
+              "tierId": 0,
+              "plays": 3439072,
+              "metaDecks": [
+                {
+                  "key": "af0af3e2e3b47548350080828e7703d7",
+                  "deckKey": "ca012b2334541a2a805b54396b3d5e2d",
+                  "name": "Girl Crush",
+                  "plays": 170594,
+                  "pickRate": 0.0496,
+                  "winRate": 0.144,
+                  "topRate": 0.597,
+                  "avgPlacement": 4,
+                  "placements": [
+                    24508, 27956, 25797, 23537, 21438, 19553, 16242, 11563
+                  ],
+                  "deck": {
+                    "augments": [
+                      "TFT11_Augment_PorcelainCrest",
+                      "TFT11_Augment_PorcelainCrown"
+                    ],
+                    "champions": [
+                      {
+                        "key": "Circe",
+                        "coreRank": 5,
+                        "items": ["Pendragon’sCrown", "Nightfang", "KoreanBow"]
+                      },
+                      {
+                        "key": "Fuma",
+                        "coreRank": 2,
+                        "items": ["ScaleHelmet", "Kavacha", "Bloodaxe"]
+                      },
+                      {
+                        "key": "Aello",
+                        "coreRank": 8,
+                        "items": ["Galea", "Evalach", "Excalibur"]
+                      },
+                      {
+                        "key": "Pyralia",
+                        "coreRank": 4,
+                        "items": ["Kunee", "JinJia", "Gladius"]
+                      },
+                      {
+                        "key": "Celaeno",
+                        "coreRank": 1,
+                        "items": ["Eaglewing", "Bayan", "SilverBullet"]
+                      },
+                      {
+                        "key": "Tamamo",
+                        "coreRank": 6,
+                        "items": ["Stormhorn", "Osirian", "RuyiBang"]
+                      },
+                      {
+                        "key": "Ravana",
+                        "coreRank": 3,
+                        "items": ["EagleBonnet", "GayaArmor", "Aetheris"]
+                      }
+                    ],
+                    "traits": [
+                      {
+                        "key": "Chaos",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "Guardian",
+                        "numUnits": 2
+                      },
+                      {
+                        "key": "Mirage",
+                        "numUnits": 4
+                      }
+                    ],
+                    "forces": [
+                      {
+                        "key": "fire",
+                        "numUnits": 3
+                      },
+                      {
+                        "key": "water",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "storm",
+                        "numUnits": 2
+                      },
+                      {
+                        "key": "dark",
+                        "numUnits": 1
+                      }
+                    ]
+                  },
+                  "augments": [
+                    "TFT11_Augment_Porcelain",
+                    "TFT6_Augment_GachaAddict",
+                    "TFT9_Augment_ArmyBuilding"
+                  ],
+                  "championStats": [
+                    {
+                      "key": "Aetheria",
+                      "plays": 170922,
+                      "wins": 24526,
+                      "tops": 101934,
+                      "placements": 684270,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 4027,
+                          "wins": 90,
+                          "tops": 827,
+                          "placements": 24186
+                        },
+                        {
+                          "key": 2,
+                          "plays": 106292,
+                          "wins": 8908,
+                          "tops": 53054,
+                          "placements": 479526
+                        },
+                        {
+                          "key": 3,
+                          "plays": 59819,
+                          "wins": 15498,
+                          "tops": 47827,
+                          "placements": 176184
+                        }
+                      ]
+                    },
+                    {
+                      "key": "MagicArcher",
+                      "plays": 170616,
+                      "wins": 24508,
+                      "tops": 101802,
+                      "placements": 682800,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 1260,
+                          "wins": 27,
+                          "tops": 267,
+                          "placements": 7537
+                        },
+                        {
+                          "key": 2,
+                          "plays": 55693,
+                          "wins": 2299,
+                          "tops": 20586,
+                          "placements": 286458
+                        },
+                        {
+                          "key": 3,
+                          "plays": 112983,
+                          "wins": 22168,
+                          "tops": 80751,
+                          "placements": 384999
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Dryad",
+                      "plays": 170340,
+                      "wins": 24503,
+                      "tops": 101721,
+                      "placements": 681256,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 2523,
+                          "wins": 100,
+                          "tops": 897,
+                          "placements": 13205
+                        },
+                        {
+                          "key": 2,
+                          "plays": 76751,
+                          "wins": 5404,
+                          "tops": 35556,
+                          "placements": 360288
+                        },
+                        {
+                          "key": 3,
+                          "plays": 90312,
+                          "wins": 18962,
+                          "tops": 65013,
+                          "placements": 303724
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Assassin",
+                      "plays": 168514,
+                      "wins": 24278,
+                      "tops": 100819,
+                      "placements": 673039,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 10270,
+                          "wins": 404,
+                          "tops": 2867,
+                          "placements": 57377
+                        },
+                        {
+                          "key": 2,
+                          "plays": 134194,
+                          "wins": 16866,
+                          "tops": 77993,
+                          "placements": 549254
+                        },
+                        {
+                          "key": 3,
+                          "plays": 22947,
+                          "wins": 6864,
+                          "tops": 19377,
+                          "placements": 61690
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Aello",
+                      "plays": 164943,
+                      "wins": 23820,
+                      "tops": 98939,
+                      "placements": 657506,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 3998,
+                          "wins": 196,
+                          "tops": 1231,
+                          "placements": 21869
+                        },
+                        {
+                          "key": 2,
+                          "plays": 122839,
+                          "wins": 14001,
+                          "tops": 67857,
+                          "placements": 520224
+                        },
+                        {
+                          "key": 3,
+                          "plays": 37344,
+                          "wins": 9542,
+                          "tops": 29520,
+                          "placements": 111756
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Morgana",
+                      "plays": 146985,
+                      "wins": 23940,
+                      "tops": 96038,
+                      "placements": 546506,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 57587,
+                          "wins": 4997,
+                          "tops": 27457,
+                          "placements": 263996
+                        },
+                        {
+                          "key": 2,
+                          "plays": 88779,
+                          "wins": 18498,
+                          "tops": 67987,
+                          "placements": 281557
+                        },
+                        {
+                          "key": 3,
+                          "plays": 335,
+                          "wins": 256,
+                          "tops": 333,
+                          "placements": 443
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Ravana",
+                      "plays": 129194,
+                      "wins": 21749,
+                      "tops": 85433,
+                      "placements": 475055,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 45272,
+                          "wins": 3848,
+                          "tops": 21151,
+                          "placements": 209246
+                        },
+                        {
+                          "key": 2,
+                          "plays": 83156,
+                          "wins": 17285,
+                          "tops": 63550,
+                          "placements": 264721
+                        },
+                        {
+                          "key": 3,
+                          "plays": 478,
+                          "wins": 417,
+                          "tops": 476,
+                          "placements": 554
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Lissandra",
+                      "plays": 4634,
+                      "wins": 1013,
+                      "tops": 3546,
+                      "placements": 14644,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 3762,
+                          "wins": 764,
+                          "tops": 2758,
+                          "placements": 12538
+                        },
+                        {
+                          "key": 2,
+                          "plays": 838,
+                          "wins": 241,
+                          "tops": 761,
+                          "placements": 2006
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "e2ef7353afa62958a765a50cde9c1ce5",
+                  "deckKey": "366d4d23e95b5c8564f0a2f36812482a",
+                  "name": "Guardian",
+                  "plays": 168995,
+                  "pickRate": 0.0491,
+                  "winRate": 0.139,
+                  "topRate": 0.604,
+                  "avgPlacement": 3.99,
+                  "placements": [
+                    23507, 27371, 26681, 24462, 21447, 18639, 15538, 11350
+                  ],
+                  "deck": {
+                    "augments": [
+                      "TFT6_Augment_TheGoldenEgg",
+                      "TFT9_Augment_Commander_TeamingUp1",
+                      "TFT11_Augment_Bruiser"
+                    ],
+                    "champions": [
+                      {
+                        "key": "Selene",
+                        "coreRank": 8,
+                        "items": ["Kiriti", "TenguYoroi", "Raikiri"]
+                      },
+                      {
+                        "key": "Pyra",
+                        "coreRank": 6,
+                        "items": ["Sekhem", "Frostguard", "Nandaka"]
+                      },
+                      {
+                        "key": "Leizu",
+                        "coreRank": 3,
+                        "items": ["Kaminari", "Vesta", "RedHorn"]
+                      },
+                      {
+                        "key": "Xi Wangmu",
+                        "coreRank": 2,
+                        "items": ["Jingong", "Aegis", "Simurgh"]
+                      },
+                      {
+                        "key": "HuliJing",
+                        "coreRank": 7,
+                        "items": ["Darius", "Wygar", "EyeOfRa"]
+                      },
+                      {
+                        "key": "Nicothoe",
+                        "coreRank": 1
+                      },
+                      {
+                        "key": "Nergal",
+                        "coreRank": 4
+                      },
+                      {
+                        "key": "Meliae",
+                        "coreRank": 5
+                      }
+                    ],
+                    "traits": [
+                      {
+                        "key": "GirlCrush",
+                        "numUnits": 4
+                      },
+                      {
+                        "key": "Wildrush",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "Mirage",
+                        "numUnits": 5
+                      }
+                    ],
+                    "forces": [
+                      {
+                        "key": "fire",
+                        "numUnits": 2
+                      },
+                      {
+                        "key": "water",
+                        "numUnits": 3
+                      },
+                      {
+                        "key": "storm",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "light",
+                        "numUnits": 2
+                      }
+                    ]
+                  },
+                  "augments": [
+                    "TFT11_Augment_Reaper",
+                    "TFT11_Augment_TinyButDeadly",
+                    "TFT6_Augment_PandorasItems"
+                  ],
+                  "championStats": [
+                    {
+                      "key": "TFT11_Kayn",
+                      "plays": 170015,
+                      "wins": 23725,
+                      "tops": 102905,
+                      "placements": 677537,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 31680,
+                          "wins": 404,
+                          "tops": 5988,
+                          "placements": 190531
+                        },
+                        {
+                          "key": 2,
+                          "plays": 133244,
+                          "wins": 19792,
+                          "tops": 92152,
+                          "placements": 478466
+                        },
+                        {
+                          "key": 3,
+                          "plays": 3969,
+                          "wins": 3002,
+                          "tops": 3933,
+                          "placements": 5393
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Yone",
+                      "plays": 169128,
+                      "wins": 23509,
+                      "tops": 102077,
+                      "placements": 675431,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 4560,
+                          "wins": 132,
+                          "tops": 1197,
+                          "placements": 26338
+                        },
+                        {
+                          "key": 2,
+                          "plays": 99776,
+                          "wins": 6641,
+                          "tops": 47739,
+                          "placements": 462510
+                        },
+                        {
+                          "key": 3,
+                          "plays": 63935,
+                          "wins": 16688,
+                          "tops": 52844,
+                          "placements": 182006
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Kindred",
+                      "plays": 168447,
+                      "wins": 23455,
+                      "tops": 101736,
+                      "placements": 672356,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 7039,
+                          "wins": 391,
+                          "tops": 2712,
+                          "placements": 36033
+                        },
+                        {
+                          "key": 2,
+                          "plays": 125315,
+                          "wins": 14230,
+                          "tops": 70649,
+                          "placements": 526597
+                        },
+                        {
+                          "key": 3,
+                          "plays": 35032,
+                          "wins": 8714,
+                          "tops": 27832,
+                          "placements": 105040
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Sylas",
+                      "plays": 166411,
+                      "wins": 23497,
+                      "tops": 101445,
+                      "placements": 659730,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 37324,
+                          "wins": 1134,
+                          "tops": 10902,
+                          "placements": 205839
+                        },
+                        {
+                          "key": 2,
+                          "plays": 126426,
+                          "wins": 20342,
+                          "tops": 88028,
+                          "placements": 449766
+                        },
+                        {
+                          "key": 3,
+                          "plays": 1885,
+                          "wins": 1578,
+                          "tops": 1875,
+                          "placements": 2306
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Hecate",
+                      "plays": 164201,
+                      "wins": 23384,
+                      "tops": 100785,
+                      "placements": 647450,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 42929,
+                          "wins": 2063,
+                          "tops": 15536,
+                          "placements": 222481
+                        },
+                        {
+                          "key": 2,
+                          "plays": 120034,
+                          "wins": 20441,
+                          "tops": 84090,
+                          "placements": 422909
+                        },
+                        {
+                          "key": 3,
+                          "plays": 711,
+                          "wins": 581,
+                          "tops": 709,
+                          "placements": 877
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_KhaZix",
+                      "plays": 129406,
+                      "wins": 17142,
+                      "tops": 77159,
+                      "placements": 521987,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 14632,
+                          "wins": 1247,
+                          "tops": 6638,
+                          "placements": 69376
+                        },
+                        {
+                          "key": 2,
+                          "plays": 107890,
+                          "wins": 14586,
+                          "tops": 65577,
+                          "placements": 429179
+                        },
+                        {
+                          "key": 3,
+                          "plays": 6642,
+                          "wins": 1274,
+                          "tops": 4797,
+                          "placements": 22484
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Ornn",
+                      "plays": 11742,
+                      "wins": 1867,
+                      "tops": 7412,
+                      "placements": 45117,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 2543,
+                          "wins": 211,
+                          "tops": 1024,
+                          "placements": 12602
+                        },
+                        {
+                          "key": 2,
+                          "plays": 9084,
+                          "wins": 1599,
+                          "tops": 6291,
+                          "placements": 32229
+                        },
+                        {
+                          "key": 3,
+                          "plays": 33,
+                          "wins": 20,
+                          "tops": 33,
+                          "placements": 53
+                        }
+                      ]
+                    },
+                    {
+                      "key": "Meliae",
+                      "plays": 1507,
+                      "wins": 391,
+                      "tops": 1207,
+                      "placements": 4451,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 1001,
+                          "wins": 238,
+                          "tops": 757,
+                          "placements": 3173
+                        },
+                        {
+                          "key": 2,
+                          "plays": 503,
+                          "wins": 153,
+                          "tops": 448,
+                          "placements": 1268
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "ad2452a8fc1662418220e4096e47fd52",
+                  "deckKey": "0a2b6d66c7bf2ca22b5004bb017e4b63",
+                  "name": "Chaos",
+                  "plays": 93682,
+                  "pickRate": 0.0272,
+                  "winRate": 0.156,
+                  "topRate": 0.536,
+                  "avgPlacement": 4.26,
+                  "placements": [
+                    14611, 11732, 11945, 11903, 12104, 11588, 11021, 8778
+                  ],
+                  "deck": {
+                    "augments": [
+                      "TFT6_Augment_ForceOfNature",
+                      "TFT11_Augment_Trickshot",
+                      "TFT6_Augment_TinyTitans"
+                    ],
+                    "champions": [
+                      {
+                        "key": "Karna",
+                        "coreRank": 6
+                      },
+                      {
+                        "key": "Keres",
+                        "coreRank": 4
+                      },
+                      {
+                        "key": "Ocypete",
+                        "coreRank": 1,
+                        "items": ["RuyiBang", "Aetheris", "Raikiri"]
+                      },
+                      {
+                        "key": "Hecate",
+                        "coreRank": 2,
+                        "items": ["Nandaka", "RedHorn", "Simurgh"]
+                      },
+                      {
+                        "key": "Rhiannon",
+                        "coreRank": 5
+                      },
+                      {
+                        "key": "Artemis",
+                        "coreRank": 3,
+                        "items": ["EyeOfRa", "Pendragon’sCrown", "ScaleHelmet"]
+                      },
+                      {
+                        "key": "Daji",
+                        "coreRank": 7
+                      },
+                      {
+                        "key": "Miho",
+                        "coreRank": 8
+                      }
+                    ],
+                    "traits": [
+                      {
+                        "key": "Fury",
+                        "numUnits": 5
+                      },
+                      {
+                        "key": "Druid",
+                        "numUnits": 4
+                      },
+                      {
+                        "key": "Blockbuster",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "Chaos",
+                        "numUnits": 6
+                      },
+                      {
+                        "key": "Guardian",
+                        "numUnits": 2
+                      }
+                    ],
+                    "forces": [
+                      {
+                        "key": "storm",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "water",
+                        "numUnits": 1
+                      },
+                      {
+                        "key": "dark",
+                        "numUnits": 3
+                      },
+                      {
+                        "key": "light",
+                        "numUnits": 3
+                      }
+                    ]
+                  },
+                  "augments": [
+                    "TFT11_Augment_Trickshot",
+                    "TFT11_Augment_TinyButDeadly",
+                    "TFT6_Augment_PandorasItems"
+                  ],
+                  "championStats": [
+                    {
+                      "key": "Hecate",
+                      "plays": 93724,
+                      "wins": 14616,
+                      "tops": 50217,
+                      "placements": 399102,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 23384,
+                          "wins": 765,
+                          "tops": 5704,
+                          "placements": 134149
+                        },
+                        {
+                          "key": 2,
+                          "plays": 69604,
+                          "wins": 13283,
+                          "tops": 43828,
+                          "placements": 263762
+                        },
+                        {
+                          "key": 3,
+                          "plays": 448,
+                          "wins": 393,
+                          "tops": 446,
+                          "placements": 533
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Kaisa",
+                      "plays": 93692,
+                      "wins": 14612,
+                      "tops": 50197,
+                      "placements": 398979,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 11123,
+                          "wins": 147,
+                          "tops": 1531,
+                          "placements": 70939
+                        },
+                        {
+                          "key": 2,
+                          "plays": 78733,
+                          "wins": 11442,
+                          "tops": 45049,
+                          "placements": 322184
+                        },
+                        {
+                          "key": 3,
+                          "plays": 3233,
+                          "wins": 2724,
+                          "tops": 3208,
+                          "placements": 3977
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Kayle",
+                      "plays": 93576,
+                      "wins": 14608,
+                      "tops": 50170,
+                      "placements": 398310,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 93153,
+                          "wins": 14550,
+                          "tops": 49931,
+                          "placements": 396583
+                        },
+                        {
+                          "key": 2,
+                          "plays": 262,
+                          "wins": 44,
+                          "tops": 169,
+                          "placements": 973
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Teemo",
+                      "plays": 92295,
+                      "wins": 14437,
+                      "tops": 49417,
+                      "placements": 393073,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 7127,
+                          "wins": 742,
+                          "tops": 2997,
+                          "placements": 34718
+                        },
+                        {
+                          "key": 2,
+                          "plays": 71463,
+                          "wins": 10425,
+                          "tops": 36849,
+                          "placements": 311500
+                        },
+                        {
+                          "key": 3,
+                          "plays": 13080,
+                          "wins": 3172,
+                          "tops": 9279,
+                          "placements": 44011
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Sylas",
+                      "plays": 92061,
+                      "wins": 14525,
+                      "tops": 49684,
+                      "placements": 390193,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 22740,
+                          "wins": 914,
+                          "tops": 6014,
+                          "placements": 128346
+                        },
+                        {
+                          "key": 2,
+                          "plays": 68443,
+                          "wins": 12972,
+                          "tops": 42852,
+                          "placements": 260387
+                        },
+                        {
+                          "key": 3,
+                          "plays": 569,
+                          "wins": 462,
+                          "tops": 562,
+                          "placements": 732
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Riven",
+                      "plays": 77535,
+                      "wins": 12343,
+                      "tops": 42394,
+                      "placements": 326010,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 7509,
+                          "wins": 861,
+                          "tops": 3162,
+                          "placements": 36618
+                        },
+                        {
+                          "key": 2,
+                          "plays": 67186,
+                          "wins": 10931,
+                          "tops": 37305,
+                          "placements": 279271
+                        },
+                        {
+                          "key": 3,
+                          "plays": 2562,
+                          "wins": 508,
+                          "tops": 1774,
+                          "placements": 8948
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Xayah",
+                      "plays": 72815,
+                      "wins": 14159,
+                      "tops": 45614,
+                      "placements": 276308,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 44407,
+                          "wins": 3818,
+                          "tops": 21071,
+                          "placements": 204739
+                        },
+                        {
+                          "key": 2,
+                          "plays": 28305,
+                          "wins": 10311,
+                          "tops": 24475,
+                          "placements": 71214
+                        },
+                        {
+                          "key": 3,
+                          "plays": 2,
+                          "wins": 2,
+                          "tops": 2,
+                          "placements": 2
+                        }
+                      ]
+                    },
+                    {
+                      "key": "TFT11_Udyr",
+                      "plays": 53026,
+                      "wins": 13143,
+                      "tops": 38864,
+                      "placements": 173036,
+                      "championTierStats": [
+                        {
+                          "key": 1,
+                          "plays": 27041,
+                          "wins": 4210,
+                          "tops": 16518,
+                          "placements": 105878
+                        },
+                        {
+                          "key": 2,
+                          "plays": 25965,
+                          "wins": 8924,
+                          "tops": 22334,
+                          "placements": 67093
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "refs": {
+              "champions": [
+                {
+                  "key": "Leizu",
+                  "ingameKey": "Leizu",
+                  "name": "Leizu",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/witch_water_kn6np5.png",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/witch_water_kn6np5.png",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294599/FRAME_silver_mdunc1.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["Druid", "Guardian"],
+                  "cost": 1,
+                  "health": [500, 900, 1620],
+                  "attackDamage": [55, 83, 124],
+                  "damagePerSecond": [39, 58, 87],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 15,
+                  "magicalResistance": 15,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["KoreanBow", "Evalach", "Kavacha"]
+                },
+                {
+                  "key": "Circe",
+                  "ingameKey": "Circe",
+                  "name": "Circe",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_fire_onijyp.png",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_fire_onijyp.png",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["Druid", "Guardian"],
+                  "cost": 1,
+                  "health": [550, 990, 1782],
+                  "attackDamage": [60, 90, 135],
+                  "damagePerSecond": [40, 60, 90],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 20,
+                  "magicalResistance": 20,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Evalach", "Gladius", "Simurgh"]
+                },
+                {
+                  "key": "Pontianak",
+                  "ingameKey": "Pontianak",
+                  "name": "Pontianak",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_wind_pfdpxs.png",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_wind_pfdpxs.png",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721295551/FRAME_platinum_qlyud7.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["Druid", "Guardian"],
+                  "cost": 1,
+                  "health": [600, 1080, 1944],
+                  "attackDamage": [65, 98, 147],
+                  "damagePerSecond": [45, 68, 102],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 25,
+                  "magicalResistance": 25,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["WizardHat", "LeaderArmor", "Nightfang"]
+                },
+                {
+                  "key": "Aradia",
+                  "ingameKey": "Aradia",
+                  "name": "Aradia",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_Dark_imhnti.png",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_Dark_imhnti.png",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294599/FRAME_Purple_maygft.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["Druid", "Guardian"],
+                  "cost": 1,
+                  "health": [650, 1170, 2106],
+                  "attackDamage": [70, 105, 157],
+                  "damagePerSecond": [50, 75, 112],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 30,
+                  "magicalResistance": 30,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Evalach", "Kavacha", "JinJia"]
+                },
+                {
+                  "key": "Xi Wangmu",
+                  "ingameKey": "Xi Wangmu",
+                  "name": "Xi Wangmu",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_Light_nfdaiu.png",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721802915/Witch_Light_nfdaiu.png",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294600/FRAME_Gold_1_urafri.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["Druid", "Guardian"],
+                  "cost": 1,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Aetheris", "Pendragon’sCrown", "Sword"]
+                },
+                {
+                  "key": "Karna",
+                  "ingameKey": "Karna",
+                  "name": "Karna",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034044/Assassin_Light_oosm4w.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034044/Assassin_Light_oosm4w.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294599/FRAME_silver_mdunc1.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["GirlCrush", "Mirage"],
+                  "cost": 1,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Aetheris", "Pendragon’sCrown", "Sword"]
+                },
+                {
+                  "key": "Ravana",
+                  "ingameKey": "Ravana",
+                  "name": "Ravana",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034037/Assassin_Storm_kmepdb.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034037/Assassin_Storm_kmepdb.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["GirlCrush", "Mirage"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Kaminari", "WoodenWand", "Cloak"]
+                },
+                {
+                  "key": "Keres",
+                  "ingameKey": "Keres",
+                  "name": "Keres",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034036/Assassin_dark_sgdecm.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034036/Assassin_dark_sgdecm.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["GirlCrush", "Mirage"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Aegis", "Kavacha", "Evalach"]
+                },
+                {
+                  "key": "Nergal",
+                  "ingameKey": "Nergal",
+                  "name": "Nergal",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034036/Assassin_Fire_a7zsnm.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034036/Assassin_Fire_a7zsnm.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["GirlCrush", "Mirage"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Helmet", "LeaderArmor", "Gladius"]
+                },
+                {
+                  "key": "Fuma",
+                  "ingameKey": "Fuma",
+                  "name": "Fuma",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034035/Assassin_Water_ajlx5l.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721034035/Assassin_Water_ajlx5l.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["GirlCrush", "Mirage"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Helmet", "LeaderArmor", "Gladius"]
+                },
+                {
+                  "key": "Meliae",
+                  "ingameKey": "Meliae",
+                  "name": "Meliae",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721647791/Dryad_Storm_1_lztfy8.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721647791/Dryad_Storm_1_lztfy8.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["Blockbuster", "Druid", "GirlCrush", "Chaos"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Helmet", "LeaderArmor", "Gladius"]
+                },
+                {
+                  "key": "Aetheria",
+                  "ingameKey": "Aetheria",
+                  "name": "Aetheria",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720680047/DRYAD_Light_doyy7c.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720680047/DRYAD_Light_doyy7c.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["Blockbuster", "Druid", "GirlCrush", "Chaos"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Helmet", "LeaderArmor", "Gladius"]
+                },
+                {
+                  "key": "Orphne",
+                  "ingameKey": "Orphne",
+                  "name": "Orphne",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720680047/Dryad_Dark_et9pfr.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720680047/Dryad_Dark_et9pfr.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["Blockbuster", "Druid", "GirlCrush", "Chaos"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["Helmet", "LeaderArmor", "Gladius"]
+                },
+                {
+                  "key": "Pyra",
+                  "ingameKey": "Pyra",
+                  "name": "Pyra",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720586017/Fire_Corrected_rpswrx.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720586017/Fire_Corrected_rpswrx.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["Blockbuster", "Druid", "GirlCrush", "Chaos"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Merope",
+                  "ingameKey": "Merope",
+                  "name": "Merope",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720586016/Dryad_Water_hzhxhu.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720586016/Dryad_Water_hzhxhu.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["Blockbuster", "Druid", "GirlCrush", "Chaos"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Aello",
+                  "ingameKey": "Aello",
+                  "name": "Aello",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720080846/Harpy_Storm_wgaezk.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720080846/Harpy_Storm_wgaezk.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["Wildrush", "Blockbuster"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Ocypete",
+                  "ingameKey": "Ocypete",
+                  "name": "Ocypete",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719999771/final6_vrpuhj.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719999771/final6_vrpuhj.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["Wildrush", "Blockbuster"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Pyralia",
+                  "ingameKey": "Pyralia",
+                  "name": "Pyralia",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719999771/00646-609178461_fcxp2m.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719999771/00646-609178461_fcxp2m.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["Wildrush", "Blockbuster"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Celaeno",
+                  "ingameKey": "Celaeno",
+                  "name": "Celaeno",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719921880/final4up_ekgr1i.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719921880/final4up_ekgr1i.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["Wildrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Nicothoe",
+                  "ingameKey": "Nicothoe",
+                  "name": "Nicothoe",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719662727/Harpy_Updated_V3_1_er7dzy.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1719662727/Harpy_Updated_V3_1_er7dzy.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["Wildrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Rhiannon",
+                  "ingameKey": "Rhiannon",
+                  "name": "Rhiannon",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720585221/Magic_Archer_Storm_uesxay.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720585221/Magic_Archer_Storm_uesxay.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["GirlCrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Selene",
+                  "ingameKey": "Selene",
+                  "name": "Selene",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720585221/Magic_Archer_Water_2_otkuaa.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720585221/Magic_Archer_Water_2_otkuaa.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["GirlCrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Hestial",
+                  "ingameKey": "Hestial",
+                  "name": "Hestial",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Fire_2_xkhinq.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Fire_2_xkhinq.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["GirlCrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Artemis",
+                  "ingameKey": "Artemis",
+                  "name": "Artemis",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Light_zvfs4n.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Light_zvfs4n.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["GirlCrush", "Blockbuster"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Hecate",
+                  "ingameKey": "Hecate",
+                  "name": "Hecate",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Dark_ojfius.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1720498931/Magic_Archer_Dark_ojfius.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["GirlCrush", "Blockbuster"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Daji",
+                  "ingameKey": "Daji",
+                  "name": "Daji",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634340/Nine_tails_dark_umjspo.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634340/Nine_tails_dark_umjspo.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["Wildrush", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Tamamo",
+                  "ingameKey": "Tamamo",
+                  "name": "Tamamo",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634339/Nine_tails_fire_iv70l5.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634339/Nine_tails_fire_iv70l5.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["Wildrush", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Oinari",
+                  "ingameKey": "Oinari",
+                  "name": "Oinari",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634335/Nine_tails_wind_nwzl3v.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634335/Nine_tails_wind_nwzl3v.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["Wildrush", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Miho",
+                  "ingameKey": "Miho",
+                  "name": "Miho",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634334/Nine_tails_light_xuvish.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634334/Nine_tails_light_xuvish.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["Wildrush", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "HuliJing",
+                  "ingameKey": "HuliJing",
+                  "name": "Huli Jing",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634333/Nine_tails_water_jykpim.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721634333/Nine_tails_water_jykpim.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["Wildrush", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"]
+                },
+                {
+                  "key": "Lyra",
+                  "ingameKey": "Lyra",
+                  "name": "Lyra",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254112/amazon_light_s1dwr5.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254112/amazon_light_s1dwr5.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["Chaos", "GirlCrush"],
+                  "cost": 1,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Amazon"
+                },
+                {
+                  "key": "Elysia",
+                  "ingameKey": "Elysia",
+                  "name": "Elysia",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254113/amazon_dark_hznur0.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254113/amazon_dark_hznur0.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["Chaos", "GirlCrush"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Amazon"
+                },
+                {
+                  "key": "Seraphina",
+                  "ingameKey": "Seraphina",
+                  "name": "Seraphina",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254112/amazon_fire_lnxnu8.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254112/amazon_fire_lnxnu8.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["Chaos", "GirlCrush"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Amazon"
+                },
+                {
+                  "key": "Morwen",
+                  "ingameKey": "Morwen",
+                  "name": "Morwen",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254114/amazon_water_ku5dzv.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254114/amazon_water_ku5dzv.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["Chaos", "GirlCrush"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Amazon"
+                },
+                {
+                  "key": "Fiorella",
+                  "ingameKey": "Fiorella",
+                  "name": "Fiorella",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254114/amazon_water_ku5dzv.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722254114/amazon_water_ku5dzv.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["Chaos", "GirlCrush"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Amazon"
+                },
+                {
+                  "key": "Yumi",
+                  "ingameKey": "Yumi",
+                  "name": "Yumi",
+                  "varient": "light",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Light-enhanced_ymjqgs.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Light-enhanced_ymjqgs.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/light_2_oubhtr.png",
+                  "traits": ["GirlCrush", "Fury"],
+                  "cost": 1,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Samurai"
+                },
+                {
+                  "key": "Rei",
+                  "ingameKey": "Rei",
+                  "name": "Rei",
+                  "varient": "dark",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057442/Samurai_Dark-enhanced_inlsve.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057442/Samurai_Dark-enhanced_inlsve.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/dark_1_tuvrom.png",
+                  "traits": ["GirlCrush", "Fury"],
+                  "cost": 2,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Samurai"
+                },
+                {
+                  "key": "Akane",
+                  "ingameKey": "Akane",
+                  "name": "Akane",
+                  "varient": "fire",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057441/Samurai_Fire-enhanced_xyrrls.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057441/Samurai_Fire-enhanced_xyrrls.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/Fire_1_qtmoog.png",
+                  "traits": ["GirlCrush", "Fury"],
+                  "cost": 3,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Samurai"
+                },
+                {
+                  "key": "Hana",
+                  "ingameKey": "Hana",
+                  "name": "Hana",
+                  "varient": "water",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Water-enhanced_u9sr1j.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Water-enhanced_u9sr1j.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/water_1_tx1c4e.png",
+                  "traits": ["GirlCrush", "Fury"],
+                  "cost": 4,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Samurai"
+                },
+                {
+                  "key": "Kazuha",
+                  "ingameKey": "Kazuha",
+                  "name": "Kazuha",
+                  "varient": "storm",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Wind-enhanced_1_iguxm8.webp",
+                  "originalImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1722057440/Samurai_Wind-enhanced_1_iguxm8.webp",
+                  "splashUrl": "//cdn.lolchess.gg/upload/images/champion-splashes/Sivir_18_1709257252-Sivir.jpg",
+                  "borderImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721294604/FRAME_bronze_tj38rg.webp",
+                  "identificationImageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721646998/wind_1_c2epgr.png",
+                  "traits": ["GirlCrush", "Fury"],
+                  "cost": 5,
+                  "health": [700, 1260, 2268],
+                  "attackDamage": [75, 113, 169],
+                  "damagePerSecond": [55, 83, 124],
+                  "attackRange": 4,
+                  "attackSpeed": 0.7,
+                  "armor": 35,
+                  "magicalResistance": 35,
+                  "skill": {
+                    "name": "On the Hunt",
+                    "imageUrl": "//cdn.lolchess.gg/upload/images/champion-skills/Sivir_1709108345-sivir_r.png",
+                    "desc": "Gain Attack Damage and grant Attack Speed to self and adjacent allies for 6 / 8 / 10 seconds.",
+                    "startingMana": 0,
+                    "skillMana": 50,
+                    "stats": [
+                      "Attack Damage: 95% / 95% / 110%",
+                      "Attack Speed: 15% / 20% / 30% AP"
+                    ]
+                  },
+                  "recommendItems": ["SilverBullet", "Raikiri", "JinJia"],
+                  "characterName": "Samurai"
+                }
+              ],
+              "traits": [
+                {
+                  "key": "GirlCrush",
+                  "name": "Girl Crush",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Girlcrush_g5mwnr.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 4
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 1
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 1
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 0
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Girlcrush_g5mwnr.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976002/Bronze_GirlCrush_dvywkj.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Silver_Girlcrush_db8nll.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Gold_GirlCrush_spqgdg.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976002/Prism_Girlcrush_smynjq.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Chaos",
+                  "name": "Chaos",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Chaos_t08oos.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 1
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 5
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 1
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 0
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 1
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Chaos_t08oos.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976011/Bronze_Chaos_uwn6cx.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Silver_Chaos_qpas3d.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Gold_Chaos_kwt2f3.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Prism_Chaos_idrubl.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Guardian",
+                  "name": "Guardian",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721977045/Base_Guardian_y6s0bp.webp",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721977045/Base_Guardian_y6s0bp.webp"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721709414/Bronze_Guardian_elunf0.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721977045/Silver_Guardian2_taxokv.webp"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721709421/Gold_Guardian_dvguvh.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721709421/Prism_Guardian_jfrdwb.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Fury",
+                  "name": "Fury",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Fury_qlxv2s.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Fury_qlxv2s.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Bronze_FURY_u1pzqg.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976010/Silver_Fury_cdfojo.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Gold_FURY_dklezu.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Prism_Fury_sx3bsx.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Wildrush",
+                  "name": "Wildrush",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Wildrush_tc92sk.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Wildrush_tc92sk.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Bronze_wildrush_q7tygc.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Silver_wildrush_sc0fay.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Gold_Wildrush_eujgvy.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Prism_wildrush_ljkwqy.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Blockbuster",
+                  "name": "Blockbuster",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Base_Blockbuster_ybxp4i.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Base_Blockbuster_ybxp4i.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976002/Bronze_block_buster_wriusr.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Silver_blockbuster_any9gr.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Gold_BlockBuster_c8v25r.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976002/Prism_blockbuster_da2j2e.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Mirage",
+                  "name": "Mirage",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Mirage_epwfzo.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Mirage_epwfzo.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Bronze_Mirage_z0dx6m.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Silver_Mirage_j8lmwh.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Gold_Mirage_zfcahq.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976002/Prism_Mirage_mpdlge.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Druid",
+                  "name": "Druid",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Druid_ms0u36.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "TRAIT",
+                  "forces": [
+                    {
+                      "key": "Light",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Dark",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Fire",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Water",
+                      "numUnits": 2
+                    },
+                    {
+                      "key": "Storm",
+                      "numUnits": 2
+                    }
+                  ],
+                  "styles": [
+                    {
+                      "style": "base",
+                      "min": 1,
+                      "max": 1,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Base_Druid_ms0u36.png"
+                    },
+                    {
+                      "style": "bronze",
+                      "min": 2,
+                      "max": 2,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976003/Bronze_Druid_wqhkqd.png"
+                    },
+                    {
+                      "style": "silver",
+                      "min": 3,
+                      "max": 3,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976006/Silver_Druid_wdduzx.png"
+                    },
+                    {
+                      "style": "gold",
+                      "min": 4,
+                      "max": 4,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976005/Gold_Druid_kqsvmz.png"
+                    },
+                    {
+                      "style": "prismatic",
+                      "min": 5,
+                      "max": 5,
+                      "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721976004/Prism_Druid_htd1jf.png"
+                    }
+                  ],
+                  "stats": {
+                    "2": "10 AR/MR",
+                    "4": "40 AR/MR",
+                    "6": "60 AR/MR",
+                    "8": "80 AR/MR",
+                    "10": "100 AR/MR"
+                  }
+                },
+                {
+                  "key": "Light",
+                  "name": "Light",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1726050142/light_skill_tree_bczhn0.webp",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "FORCE"
+                },
+                {
+                  "key": "Dark",
+                  "name": "Dark",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1726050142/Dark_skill_tree_xh2nzc.webp",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "FORCE"
+                },
+                {
+                  "key": "Fire",
+                  "name": "Fire",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721454803/Fire_skill_tree_vwtuw4.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "FORCE"
+                },
+                {
+                  "key": "Water",
+                  "name": "Water",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721454803/water_skill_tree_p7yvv9.png",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "FORCE"
+                },
+                {
+                  "key": "Storm",
+                  "name": "Storm",
+                  "desc": "Altruists heal the lowest Health ally for 15% of damage they deal. Your team gains Armor and Magic Resist.",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1726052115/wind_skill_tree_1_v8lzis.webp",
+                  "blackImageUrl": "",
+                  "whiteImageUrl": "",
+                  "type": "FORCE"
+                }
+              ],
+              "items": [
+                {
+                  "key": "WoodenWand",
+                  "name": "Wooden Wand",
+                  "desc": "+10% Attack Damage",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285369/wooden_wand_vagg5g.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "WizardHat",
+                  "name": "Wizard Hat",
+                  "desc": "+10% Ability Power",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285350/Wizard_hat_ytr90h.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "Helmet",
+                  "name": "Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285350/helmet_b20crg.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "Sword",
+                  "name": "Sword",
+                  "desc": "+10% Attack Speed",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285350/sword_irngdm.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "Cloak",
+                  "name": "Cloak",
+                  "desc": "+10 Magic Resist",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285349/cloak_blpzgh.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "PlateArmor",
+                  "name": "Plate Armor",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285349/plate_armor_pbtt2n.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "WoodenBow",
+                  "name": "Wooden Bow",
+                  "desc": "+10 Magic Resist",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285347/gsgsg_vbnvle.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "LeaderArmor",
+                  "name": "Leader Armor",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285347/leader_armor_y7un05.png",
+                  "isFromItem": true,
+                  "tags": ["fromitem"]
+                },
+                {
+                  "key": "KoreanBow",
+                  "name": "Korean Bow",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285369/korean_bow_fz7m1n.png",
+                  "compositions": ["WoodenBow", "WoodenBow"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Nightfang",
+                  "name": "Nightfang",
+                  "origin": "Native American Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285363/Native_American_Armor_zvtpbb.png",
+                  "compositions": ["WoodenBow", "PlateArmor"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Kavacha",
+                  "name": "Kavacha",
+                  "origin": "Indian Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285363/Indian_armor_fcbufc.png",
+                  "compositions": ["WizardHat", "LeaderArmor"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Evalach",
+                  "name": "Evalach",
+                  "origin": "Knight Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285362/knight_armor_aczftg.png",
+                  "compositions": ["PlateArmor", "PlateArmor"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "JinJia",
+                  "name": "Jin Jia",
+                  "origin": "Chinese Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285362/Chinese_Armor_zumr1z.png",
+                  "compositions": ["LeaderArmor", "LeaderArmor"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Bayan",
+                  "name": "Bayan",
+                  "origin": "Persian Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285362/Persian_armor_xx3yio.png",
+                  "compositions": ["Cloak", "Cloak"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Osirian",
+                  "name": "Osirian",
+                  "origin": "Egyptian Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285361/Egyptian_Armor_wwxemg.png",
+                  "compositions": ["Cloak", "Sword"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "GayaArmor",
+                  "name": "Gaya Armor",
+                  "origin": "Korean Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285361/Korean_Armor_betupo.png",
+                  "compositions": ["LeaderArmor", "WoodenBow"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Gladius",
+                  "name": "Gladius",
+                  "origin": "Roman Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285360/roman_weapon_mrb4mq.png",
+                  "compositions": ["Sword", "WizardHat"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "TenguYoroi",
+                  "name": "Tengu Yoroi",
+                  "origin": "Japanese Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285360/Japanese_Armor_qjh2gp.png",
+                  "compositions": ["LeaderArmor", "PlateArmor"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Frostguard",
+                  "name": "Frostguard",
+                  "origin": "Viking Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285358/viking_armor_r5yluy.png",
+                  "compositions": ["Helmet", "WoodenBow"],
+                  "isNormal": true,
+                  "isRadiant": "true",
+                  "tags": ["normal", "radiant"]
+                },
+                {
+                  "key": "Vesta",
+                  "name": "Vesta",
+                  "origin": "Roman Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285358/Roman_armor_vvoann.png",
+                  "compositions": ["PlateArmor", "Cloak"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Bloodaxe",
+                  "name": "Bloodaxe",
+                  "origin": "Viking Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285356/viking_weapon_rd3jfm.png",
+                  "compositions": ["PlateArmor", "Sword"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Aegis",
+                  "name": "Aegis",
+                  "origin": "Greek Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285356/greek_armor_tohbsw.png",
+                  "compositions": ["PlateArmor", "WoodenWand"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Wygar",
+                  "name": "Wygar",
+                  "origin": "England Armor",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285356/England_Armor_qvkjcc.png",
+                  "compositions": ["Cloak", "LeaderArmor"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Excalibur",
+                  "name": "Excalibur",
+                  "origin": "Knight Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285356/Knight_weapon_b4bnhb.png",
+                  "compositions": ["Sword", "LeaderArmor"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "SilverBullet",
+                  "name": "Silver Bullet",
+                  "origin": "England Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285355/england_weapon_lvewfq.png",
+                  "compositions": ["WoodenBow", "WoodenWand"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "RuyiBang",
+                  "name": "Ruyi Bang",
+                  "origin": "Chinese Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285355/chinese_weapon_x9ldz7.png",
+                  "compositions": ["WoodenWand", "LeaderArmor"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Aetheris",
+                  "name": "Aetheris",
+                  "origin": "Greek Magic Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285355/Greek_Magic_Weapon_yqalp8.png",
+                  "compositions": ["WoodenWand", "WoodenWand"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Raikiri",
+                  "name": "Raikiri",
+                  "origin": "Japanese Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285354/Japanese_Weapon_ooaviq.png",
+                  "compositions": ["Sword", "Sword"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Nandaka",
+                  "name": "Nandaka",
+                  "origin": "Indian Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285353/Indian_Weapon_l3n5us.png",
+                  "compositions": ["Sword", "WoodenBow"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "RedHorn",
+                  "name": "Nandaka",
+                  "origin": "Native American Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285351/Native_American_Weapon_rtd1el.png",
+                  "compositions": ["WoodenWand", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Simurgh",
+                  "name": "Simurgh",
+                  "origin": "Persian Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285351/Persian_Weapon_bbwl83.png",
+                  "compositions": ["WoodenWand", "Sword"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "EyeOfRa",
+                  "name": "Eye of Ra",
+                  "origin": "Egyptian Weapon",
+                  "desc": "Combat Start: Gain different bonuses based on starting position.\u003cbr\u003e\u003cbr\u003eFront Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.\u003cbr\u003e\u003cbr\u003eBack Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "+15 Mana\u003cbr\u003e+15 Ability Power\u003cbr\u003e+20 Magic Resist",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285350/egyptian_weapon_edy1ts.png",
+                  "compositions": ["WizardHat", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Pendragon’sCrown",
+                  "name": "Pendragon’s Crown",
+                  "origin": "England Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285346/England_Helmet_xyuy4q.png",
+                  "compositions": ["Helmet", "Sword"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "ScaleHelmet",
+                  "name": "Scale Helmet",
+                  "origin": "Korean Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285345/korean_helmet_a7jp6d.png",
+                  "compositions": ["Cloak", "WoodenWand"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Galea",
+                  "name": "Galea",
+                  "origin": "Roman Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285342/Roman_Helmet_ehlihi.png",
+                  "compositions": ["Cloak", "Helmet"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Kunee",
+                  "name": "Kunee",
+                  "origin": "Greek Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285342/Greek_Helmet_xxiym2.png",
+                  "compositions": ["PlateArmor", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Eaglewing",
+                  "name": "Eaglewing",
+                  "origin": "Knight Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285342/Knight_Helmet_y7dnmn.png",
+                  "compositions": ["Helmet", "PlateArmor"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Stormhorn",
+                  "name": "Stormhorn",
+                  "origin": "Viking Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285342/Viking_Helmet_d2myyg.png",
+                  "compositions": ["Helmet", "Helmet"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "EagleBonnet",
+                  "name": "Eagle Bonnet",
+                  "origin": "Native American Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/Native_American_Helmet_rqbbcf.png",
+                  "compositions": ["Cloak", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Kiriti",
+                  "name": "Kiriti",
+                  "origin": "Indian Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/Indian_Helmet_mwmncw.png",
+                  "compositions": ["LeaderArmor", "Helmet"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Sekhem",
+                  "name": "Sekhem",
+                  "origin": "Egyptian Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/egyptian_helmet_kfnzul.png",
+                  "compositions": ["Cloak", "WoodenBow"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Kaminari",
+                  "name": "Kaminari",
+                  "origin": "Japanese Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/japanese_helmet_xbavpe.png",
+                  "compositions": ["Helmet", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Jingong",
+                  "name": "Jingong",
+                  "origin": "Chinese Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/chinese_helmet_sa1dro.png",
+                  "compositions": ["WizardHat", "Helmet"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                },
+                {
+                  "key": "Darius",
+                  "name": "Darius",
+                  "origin": "Persian Helmet",
+                  "desc": "+10 Armor",
+                  "shortDesc": "+10 Armor",
+                  "fromDesc": "",
+                  "imageUrl": "https://res.cloudinary.com/dg0cmj6su/image/upload/v1721285341/Persian_Helmet_b9wnqi.png",
+                  "compositions": ["WoodenBow", "WizardHat"],
+                  "isNormal": true,
+                  "tags": ["normal"]
+                }
+              ],
+              "augments": [
+                {
+                  "key": "TFT10_Augment_HeroicGrabBag",
+                  "name": "Heroic grab bag",
+                  "desc": "Gain 2 Lesser Champion Duplicators and 6 gold.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Heroicgrabbag_1699838238-heroic-grab-bag-ii.tft_set10.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT11_Augment_ArcanistCrest",
+                  "name": "Arcanist Crest",
+                  "desc": "Gain an Arcanist Emblem and a Lux.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/ArcanistCrest_1709713729-crest_arcanist_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_ArcanistCrown",
+                  "name": "Arcanist Crown",
+                  "desc": "Gain an Arcanist Emblem, a Statikk Shiv, and a Lux.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/ArcanistCrown_1709714590-crown_arcanist_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_BaBoom",
+                  "name": "Ba-BOOM!",
+                  "desc": "Your champions deal 90% more damage for 2 seconds on every other cast.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/BaBOOM_1710286562-baboom_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_BrawlerCrest",
+                  "name": "Bruiser Crest",
+                  "desc": "Gain a Bruiser Emblem and an Aatrox.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/BruiserCrest_1709713787-crest_bruiser_ii.tft_set11.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT11_Augment_BrawlerCrown",
+                  "name": "Bruiser Crown",
+                  "desc": "Gain a Bruiser Emblem, a Bloodthirster, and an Aatrox.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/BruiserCrown_1709714612-crown_bruiser_iii.tft_set11.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT11_Augment_Bruiser",
+                  "name": "Well Fed",
+                  "desc": "Bruisers heal 2% of their max Health every 1 second. Gain a Kobuko and a Rek'Sai.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Bruiser_1709770156-wellfed_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Dryad",
+                  "name": "Mulched",
+                  "desc": "Every round, gain 2 Dryad stacks. If a Dryad deals 8% additional damage. Gain a Rek'Sai and a Gnar.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Mulched_1709714973-mulched_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_DryadCrest",
+                  "name": "Dryad Crest",
+                  "desc": "Gain a Dryad Emblem and a Gnar.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/DryadCrest_1709714123-crest_dryad_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_DryadCrown",
+                  "name": "Dryad Crown",
+                  "desc": "Gain a Dryad Emblem, a Titans Resolve, and a Gnar.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/DryadCrown_1709714636-crown_dryad_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_DuelistCrest",
+                  "name": "Duelist Crest",
+                  "desc": "Gain a Duelist Emblem and a Qiyana.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/DuelistCrest_1709714149-crest_duelist_ii.tft_set11.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT11_Augment_DuelistCrown",
+                  "name": "Duelist Crown",
+                  "desc": "Gain a Duelist Emblem, a Giant Slayer, and a Qiyana.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/DuelistCrown_1709714646-crown_duelist_iii.tft_set11.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT11_Augment_FatedCrest",
+                  "name": "Fated Crest",
+                  "desc": "Gain a Fated Emblem and a Kindred.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/FatedCrest_1709714172-crest_fated_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_FineVintage",
+                  "name": "Fine Vintage",
+                  "desc": "Completed items left on your bench for 4 rounds transform into Support items.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/FineVintage_1709769458-finevintage_i.tft_set11.png",
+                  "tier": 1,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Ghostly",
+                  "name": "Haunted House",
+                  "desc": "Enemies that die while haunted by Ghostly pass 2 extra spectre to a nearby enemy. Gain a Caitlyn and a Shen.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Ghostly_1709769838-hauntedhouse_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_GoldenRemover",
+                  "name": "The Golden Remover",
+                  "desc": "Gain a Golden Remover and component item anvil.\u003cbr\u003e\u003cbr\u003eGolden Remover is an Item Remover with infinite uses.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TheGoldenRemover_1709769517-goldenremover_i.tft_set11.png",
+                  "tier": 1,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_HeavenlyCrest",
+                  "name": "Heavenly Crest",
+                  "desc": "Gain a Heavenly Emblem and a Neeko.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/HeavenlyCrest_1709714236-crest_heavenly_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_HeavenlyCrown",
+                  "name": "Heavenly Crown",
+                  "desc": "Gain a Heavenly Emblem, a Hand of Justice, and a Neeko.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/HeavenlyCrown_1709714707-crown_heavenly_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_MythicCrest",
+                  "name": "Mythic Crest",
+                  "desc": "Gain a Mythic Emblem and a Neeko.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/MythicCrest_1709714404-crest_mythic_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_MythicCrown",
+                  "name": "Mythic Crown",
+                  "desc": "Gain a Mythic Emblem, a Guardbreaker, and a Neeko.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/MythicCrown_1709714747-crown_mythic_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_NeekoCarry",
+                  "name": "Drop Blossom!",
+                  "desc": "Gain a Neeko. Your strongest Neeko's spell Heals 35% more, and slams for 35% increased damage. Each cast increases the spell radius by 1.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/NeekoCarry_1709769577-dropblossom_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Porcelain",
+                  "name": "Boiling Point",
+                  "desc": "Porcelains' attacks grant 3 bonus Mana. While boiling, their attacks also Burn and Wound. Gain a Lux and an Amumu.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/BoilingPoint_1709715035-boilingpoint_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_PorcelainCrest",
+                  "name": "Porcelain Crest",
+                  "desc": "Gain a Porcelain Emblem and a Lux.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/PorcelainCrest_1709714419-crest_porcelain_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_PorcelainCrown",
+                  "name": "Porcelain Crown",
+                  "desc": "Gain a Porcelain Emblem, an Adaptive Helm, and an Amumu.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/PorcelainCrown_1709714763-crown_porcelain_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Reaper",
+                  "name": "Grim Harvest",
+                  "desc": "Your Reapers gain 8% Critical Strike chance and 5% Omnivamp. They gain this bonus again every time they get a takedown. Gain a Kindred and Yone.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Reaper_1709769828-grimharvest_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_SniperCrown",
+                  "name": "Sniper Crown",
+                  "desc": "Gain a Sniper Emblem, a Guinsoo's Rageblade, and a Senna.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/SniperCrown_1709714802-crown_sniper_iii.tft_set11.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT11_Augment_StoryweaverCrest",
+                  "name": "Storyweaver Crest",
+                  "desc": "Gain a Storyweaver Emblem and a Garen.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/StoryweaverCrest_1709714489-crest_storyweaver_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_StoryweaverCrown",
+                  "name": "Storyweaver Crown",
+                  "desc": "Gain a Storyweaver Emblem, a Gargoyle Stoneplate, and a Riven.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/StoryweaverCrown_1709714814-crown_storyweaver_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_TinyButDeadly",
+                  "name": "Tiny, but Deadly",
+                  "desc": "Your units are 50% smaller, but move and attack 30% faster.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TinybutDeadly_1709770236-tinybutdeadly_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Trickshot",
+                  "name": "Lucky Ricochet",
+                  "desc": "Trickshots bounce 1 additional time for 40% of original damage. Gain a Sivir and Teemo.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Trickshot_1709769937-luckyricochet_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_TwoforOne",
+                  "name": "Two for One",
+                  "desc": "Each round, get a copy of the first champion you buy that costs 3 or less.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TwoforOne_1709714935-twoforone_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Umbral",
+                  "name": "Wrath of the Moon",
+                  "desc": "Umbral champions deal 3.5% more damage every second they continue attacking an enemy. Resets when they swap targets. Gain a Darius and a Yorick.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Umbral_1709770167-wrathofthemoon_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_UmbralCrown",
+                  "name": "Umbral Crown",
+                  "desc": "Gain an Umbral Emblem, a Redemption, and a Yorick.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/UmbralCrown_1709714830-crown_umbral_iii.tft_set11.png",
+                  "tier": 3,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT11_Augment_Warden",
+                  "name": "Spirit Guardians",
+                  "desc": "Wardens' start of combat damage reduction is increased by 12%. 20% of damage dealt to non-Wardens is instead distributed across your Wardens. Get a Garen and a Jax.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Warden_1709859370-spiritguardians_ii.tft_set11.png",
+                  "tier": 2,
+                  "tags": ["new"]
+                },
+                {
+                  "key": "TFT6_Augment_Featherweights1",
+                  "name": "Featherweights I",
+                  "desc": "Your 1 and 2 cost champions gain 15% Attack Speed and Move Speed.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/featherweights1.tft_set6.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT6_Augment_ForceOfNature",
+                  "name": "New Recruit",
+                  "desc": "Gain +1 max team size and a Champion Duplicator.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/newrecruit3.tft_set6.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT6_Augment_GachaAddict",
+                  "name": "Prismatic Ticket",
+                  "desc": "Each time your Shop is rerolled, you have a 50% chance to gain a free reroll.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/GoldenTicket_1662627362-goldenticket3.tft_set7.5.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT6_Augment_PandorasItems",
+                  "name": "Pandora's Items",
+                  "desc": "Round start: items on your bench are randomized (except Tactician's Crown and Spatula).\u003cbr\u003e\u003cbr\u003eGain 1 random component.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/pandora1.tft_set6.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT6_Augment_PortableForge",
+                  "name": "Portable Forge",
+                  "desc": "Choose 1 of 4 Artifacts.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/portableforge2.tft_set6.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT6_Augment_TheGoldenEgg",
+                  "name": "The Golden Egg",
+                  "desc": "Gain a golden egg that hatches in 11 turns for a huge amount of loot. Winning player combat speeds up the hatch timer by an extra turn.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/the-golden-egg-iii.tft_set6_stage2.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT6_Augment_TinyTitans",
+                  "name": "Tiny Titans",
+                  "desc": "Increase your current and maximum player health by 30.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TinyTitans_1649800066.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT9_Augment_ArmyBuilding",
+                  "name": "Team Building",
+                  "desc": "Gain a Lesser Champion Duplicator. Gain another after 7 player combats.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/ArmyBuilding_1685415960-Building-an-army-I.TFT_Set9.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT9_Augment_Commander_TeamingUp1",
+                  "name": "Teaming Up I",
+                  "desc": "Gain 1 random component and 2 random 3-cost champions.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TeamingUpI_1693367058-teaming-up-i.tft_set9_stage2.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT9_Augment_GreaterJeweledLotus",
+                  "name": "Jeweled Lotus III",
+                  "desc": "Your team gains 40% Critical Strike chance, and their Abilities can critically strike.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/GreaterJeweledLotus_1685603229-jeweled-lotus-iii.png",
+                  "tier": 3
+                },
+                {
+                  "key": "TFT9_Augment_Harmacist1",
+                  "name": "Harmacist I",
+                  "desc": "Your team has 10% Omnivamp and convert 20% of excess healing to true damage on their next attack.\u003cbr\u003e\u003cbr\u003e(Omnivamp: healing for a percent of damage dealt)",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/Harmacist1_1685416162-Harmacist-1-2-3-I.TFT_Set9.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT9_Augment_JeweledLotus",
+                  "name": "Jeweled Lotus II",
+                  "desc": "Your team gains 15% Critical Strike chance, and their Abilities can critically strike.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/jeweled-lotus-ii.tft_set6_stage2.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT9_Augment_LearningFromExperience2",
+                  "name": "Patient Study",
+                  "desc": "After player combat, gain 2 XP if you won or 3 XP if you lost.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/LearningFromExperience2_1685935137-learning-from-experience-ii.tft_set9.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT9_Augment_OldMansWalkingStick",
+                  "name": "Magic Wand",
+                  "desc": "Gain a Needlessly Large Rod. Your units gain 18 Ability Power.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/OldMansWalkingStick_1685604930-Old-Man_s-Walking-Stick-II.TFT_Set9.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT9_Augment_PandorasItems2",
+                  "name": "Pandora's Items II",
+                  "desc": "Round Start: items on your bench are randomized (excluding Tactician's Crown, Spatula, and consumables).\u003cbr\u003e\u003cbr\u003eGain 2 random component items.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/PandorasItems2_1685602633-pandora2.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT9_Augment_RiskyMoves",
+                  "name": "Risky Moves",
+                  "desc": "Your Tactician loses 20 Health, but after 7 Player combats, gain 33 Gold.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/RiskyMoves_1685416284-Risky-Moves-I.TFT_Set9.png",
+                  "tier": 1
+                },
+                {
+                  "key": "TFT9_Augment_TwoHealthy",
+                  "name": "Two Healthy",
+                  "desc": "Your team gains 90 Health for each unique 2-cost champion on your board.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/TwoHealthy_1685417008-Two-Healthy-II.TFT_Set9.png",
+                  "tier": 2
+                },
+                {
+                  "key": "TFT_Augment_BranchingOut",
+                  "name": "Branching Out",
+                  "desc": "Gain a random Emblem and a Reforger.",
+                  "imageUrl": "//cdn.lolchess.gg/upload/images/items/BranchingOut_1685415068-Branching-Out-I.TFT_Set9.png",
+                  "tier": 1
+                }
+              ],
+              "metaDeckHideKeys": [],
+              "metaDeckNames": [],
+              "metaDeckTeamBuilders": []
+            }
+          }
+        }
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/decks",
+  "query": {},
+  "buildId": "4o7l9W6BiXFvY5-tOhns6",
+  "assetPrefix": "//cdn.dak.gg/tft",
+  "isFallback": false,
+  "gssp": true,
+  "appGip": true,
+  "scriptLoader": []
+}
